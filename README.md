@@ -16,7 +16,7 @@ If you want to run this project locally on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/portfolio-builder.git](https://github.com/bamideleadedeji/portfolio-builder.git)
+   git clone [https://github.com/bamideleadedeji/portfolio-builder.git]
 
 2   Install dependencies:
     pip install -r requirements.txt
