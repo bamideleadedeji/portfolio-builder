@@ -3,7 +3,7 @@
 A professional web application built with Python and Streamlit that allows users to analyze, optimize, and visualize investment portfolios in real-time.
 
 ## Live Demo
-[Insert your Streamlit App URL here once deployed]
+[https://portfolio-builder-mxqcq9mf5vpwagpb8xdhy3.streamlit.app/]
 
 ## Features
 * **Real-time Data:** Fetches latest market data using the Yahoo Finance API.
